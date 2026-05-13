@@ -1,0 +1,5 @@
+Java gej yuve?;Programming language
+Java programmiig yaj ajilluuldag ve?;run
+2 + 3 = hed ve?;5
+Mongol uls heden aimagtai ve?;21
+Mvn yund ashiglagddag ve?;build
